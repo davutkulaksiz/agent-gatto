@@ -9,5 +9,8 @@ wheels/
 # Virtual environments
 .venv
 
-#env
+# env
 .env
+
+# test files
+calculator/lorem.txt
