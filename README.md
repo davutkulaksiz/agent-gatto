@@ -105,24 +105,24 @@ The project uses several configuration parameters defined in `config.py`:
 ```
 agent-gatto/
 ├── main.py                 # Entry point and main application logic
-├── config.py              # Configuration settings
-├── prompts.py             # System prompt for the AI agent
-├── call_function.py       # Function calling orchestration
-├── functions/             # Available function implementations
-│   ├── get_files_info.py  # File listing functionality
+├── config.py               # Configuration settings
+├── prompts.py              # System prompt for the AI agent
+├── call_function.py        # Function calling orchestration
+├── functions/              # Available function implementations
+│   ├── get_files_info.py   # File listing functionality
 │   ├── get_file_content.py # File reading functionality
-│   ├── run_python.py      # Python execution functionality
-│   └── write_file.py      # File writing functionality
-├── calculator/            # Example project (working directory)
+│   ├── run_python.py       # Python execution functionality
+│   └── write_file.py       # File writing functionality
+├── calculator/             # Example project (working directory)
 │   ├── main.py
 │   ├── pkg/
 │   │   ├── calculator.py
 │   │   └── render.py
 │   ├── README.md
 │   └── tests.py
-├── requirements.txt       # Python dependencies
-├── pyproject.toml        # Project metadata
-└── README.md             # This file
+├── requirements.txt        # Python dependencies
+├── pyproject.toml          # Project metadata
+└── README.md               # This file
 ```
 
 ## Requirements
