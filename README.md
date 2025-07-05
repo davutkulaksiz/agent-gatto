@@ -2,6 +2,8 @@
 
 _Agent Gatto is at your service!_ 🎩
 
+![Agent Gatto](https://avatars.githubusercontent.com/u/58954450?s=400&u=314d41ef1c2ecac0a73fd5c1b4c6069f75ce88ee&v=4)
+
 This is not like other AI wrappers - this is the gatto's own wizardry wrapper! An AI-powered coding assistant that uses Google's Gemini 2.0 Flash model to help with code analysis, file manipulation, and Python execution within a controlled working directory. Agent Gatto combines the power of advanced AI with the cunning of a cat to solve your coding problems with style.
 
 ## Features
