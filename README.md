@@ -117,7 +117,7 @@ agent-gatto/
 │   ├── main.py
 │   ├── pkg/
 │   │   ├── calculator.py
-│   │   └── render.py
+│   │   └── render.py       # may you be underworked and overpaid
 │   ├── README.md
 │   └── tests.py
 ├── requirements.txt        # Python dependencies
